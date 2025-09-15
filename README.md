@@ -1,8 +1,16 @@
-## Hi there 👋
+안녕하세요, 함께 성장하며 불편을 가치로 바꾸는 Frontend Developer 이소연입니다.
+
+- 사용자의 작은 불편을 해결하여 일상의 가치를 높이는 서비스를 만드는 데 집중합니다.
+- 규칙과 문화, 그라운드룰을 중요하게 여기며 팀의 샹산성을 높이는 개발 문화를 만드는 데 기여합니다.
+- 개인의 성장이 팀의 성장으로 이어진다고 믿고, 지식을 적극적으로 공유합니다.
+- 기록을 통해 성장하고 기본기를 다지는 것을 즐깁니다.
+- 같이 일하고 싶은 동료가 되는 것이 목표입니다.
 
 
-#### Skills
- 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-663399?style=flat&logo=CSS&logoColor=white"/> 
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> 
-<!-- ![eesoyeon's Github Stats](https://github-readme-stats.vercel.app/api?username=eesoyeon&theme=dark&show_icons=true) -->
+---
+
+> 👥 DND IT 동아리 13th (25.07 ~ 25.08)
+> 
+> 👥 Programmers Devcourse Web Fullstack 4th (24.08 ~ 25.02)
+> 
+> 🎓 Hankuk University of Foreign Studies (19.03 ~ 24.08) 
